@@ -1,0 +1,97 @@
+.blanco{
+
+    color:#ffff;
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+
+}
+
+body {
+    background-color:#000000;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCFPrEHJA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    
+
+
+}
+.imagen1{
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+}
+
+.parrafo{
+    
+    left: 150px;
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 20px;
+    z-index: 100;
+    position: absolute;    
+    font-size: 24px;
+    src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCFPrEHJA.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+.imagen2{
+    
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    opacity: 1;
+    position: absolute;
+    
+}
+.imagen3{
+       
+    width: 420px;
+    height: 205px;
+    
+    
+}
+#container {
+    height: 400px;
+    width: 400px;
+    position: relative;
+  }
+  #container2 {
+    
+    
+    background-color:#1e1a13;
+    align-items: center;
+  }
+  #container3 {
+     position: relative;
+  }
+  .a{
+    top: 0%;
+    text-align: left;
+    vertical-align: baseline;
+    }
+  .b{
+    top: 0%;
+    text-align: center;
+    vertical-align: baseline;
+    }
+  .c{
+    top: 0%;
+    text-align: right;
+    vertical-align: baseline;
+    }
+footer{
+        height: 50px;        
+        background-color:#1e1a13;
+        text-align: center; 
+        padding: 20px;
+        color: #FFFFFF;  
+}
